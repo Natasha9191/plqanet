@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.fotor.com	TRUE	/	FALSE	1999999999	__cf_bm	nNJKEhOhvUxTgrO8IjYYYtfYCcaPx00AhF4GJfoDLyo-1708013859-1.0-Ab9mLKAAEFwV0ads92VmZhwqKvXKRF6dU4h+8LzCsTTL2Nl4RFCmPCttl84VDEQ5ugkuZ0QZy/ZlPYO2LAXTzAI=
+www.fotor.com	TRUE	/	FALSE	1999999999	SameSite	None
+
